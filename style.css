@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+b{
+    color: blueviolet;
+}
+q{
+   color: darkgreen;
+}
+table,td,th{
+    border: 1px solid black;    
+}
+a{
+    color: red;
+}
+a:hover{
+    color: green;
+    text-decoration: underline;
+}
+a:visited{
+    color: blue;
+}
+img{
+    width: 300;height: 300;
+}
+div{
+    text-align: center;
+}
